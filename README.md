@@ -8,6 +8,9 @@
 ### Windwos Chrome
 ![image](https://user-images.githubusercontent.com/71582030/153007803-558df56e-4d7e-4f06-a30d-75b2d5122cc6.png)
 
+### Mac Ternimal
+![image](https://user-images.githubusercontent.com/71582030/153011512-e9d3e2a1-413c-4626-acf2-46475a94eaf7.png)
+
 ### Windows Command Prompt
 ![image](https://user-images.githubusercontent.com/71582030/153009469-9507f3be-517d-4434-abf2-dc32431a4d3e.png)
 
@@ -30,6 +33,18 @@
  🡨 🡪 **⟳**   zytha.github.io 
 
              **Personal Portfolio**
+
+``                              
+``
+```
+
+### Mac Ternimal
+
+```
+`` ● ● ●     Zytha-Bash         ``
+   Last login: *Just Now* 
+   Zytha's-iMac: ***_***
+
 
 ``                              
 ``
