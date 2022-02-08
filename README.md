@@ -12,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/71582030/153011512-e9d3e2a1-413c-4626-acf2-46475a94eaf7.png)
 
 ### Windows Command Prompt
-![image](https://user-images.githubusercontent.com/71582030/153011871-d88db004-edc2-4fdb-b6d0-f663ab88d10a.png)
+![image](https://user-images.githubusercontent.com/71582030/153012036-4e65e6de-f642-4c5e-9979-f4b91341c69f.png)
 
 ## Copy n Paste
 
@@ -54,6 +54,7 @@
 ```
 `` Command Prompt         — ❐ ⤬``
    c:/Users/user> ***_***
+
 
 
 ``                              
