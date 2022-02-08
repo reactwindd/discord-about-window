@@ -1,4 +1,4 @@
-### Discord About Window
+# Discord About Window
 
 ## Preview
 
