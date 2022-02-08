@@ -8,6 +8,8 @@
 ### Windwos Chrome
 ![image](https://user-images.githubusercontent.com/71582030/153007803-558df56e-4d7e-4f06-a30d-75b2d5122cc6.png)
 
+### Windows Command Prompt
+![image](https://user-images.githubusercontent.com/71582030/153009469-9507f3be-517d-4434-abf2-dc32431a4d3e.png)
 
 ## Copy n Paste
 
