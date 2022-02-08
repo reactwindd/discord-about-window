@@ -33,4 +33,14 @@
 ``
 ```
 
+### Windows Command Prompt
+```
+`` Command Prompt         — ❐ ⤬``
+**   ᶜ:/ᵁˢᵉʳˢ/ᵘˢᵉʳ>** ***_***
+
+
+``                              
+``
+```
+
 
