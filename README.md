@@ -14,6 +14,9 @@
 ### Windows Command Prompt
 ![image](https://user-images.githubusercontent.com/71582030/153012036-4e65e6de-f642-4c5e-9979-f4b91341c69f.png)
 
+### Windows Minecraft
+![image](https://user-images.githubusercontent.com/71582030/153322031-3212c910-2494-47f4-b139-1750665b7f96.png)
+
 ## Copy n Paste
 
 ### Mac Chrome
@@ -57,6 +60,17 @@
 
 
 
+``                              
+``
+```
+
+### Windows Minecraft
+```
+`` Minecraft              — ❐ ⤬`` 
+
+                                +
+                ▁▁▁▁▁▁▁▁▁▁▁▁
+                ▢▢▢▢▢▢▢▢▢
 ``                              
 ``
 ```
