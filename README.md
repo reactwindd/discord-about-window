@@ -27,7 +27,7 @@
 ``
 ```
 
-### Windwos Chrome
+### Windows Chrome
 ```
 `` Chrome                 — ❐ ⤬``
  🡨 🡪 **⟳**   zytha.github.io 
