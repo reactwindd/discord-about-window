@@ -1,6 +1,6 @@
 # Discord About Window
 <!-- Place this tag where you want the button to render. -->
-[fork my repository](https://github.com/user/repository/fork)
+![build](https://github.com/ntkme/github-buttons/workflows/build/badge.svg)
 ## Preview
 
 ### Mac Chrome
