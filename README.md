@@ -1,6 +1,6 @@
 # Discord About Window
 <!-- Place this tag where you want the button to render. -->
-
+[fork my repository](https://github.com/user/repository/fork)
 ## Preview
 
 ### Mac Chrome
