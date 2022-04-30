@@ -1,6 +1,5 @@
 # Discord About Window
 <!-- Place this tag where you want the button to render. -->
-![Author](https://github.com/Zytha)
 ## Preview
 
 ### Mac Chrome
