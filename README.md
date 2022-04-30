@@ -1,5 +1,6 @@
 # Discord About Window
-<a href="https://zytha"><img src="https://img.shields.io/static/v1?label=download&message=latest&color=12c970&logo=docusign&logoColor=white" alt="test" /></a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/Zytha/discord-about-window" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Zytha/discord-about-window on GitHub">Star</a>
 ## Preview
 
 ### Mac Chrome
