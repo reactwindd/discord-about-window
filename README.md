@@ -17,6 +17,9 @@
 ### Windows Minecraft
 ![image](https://user-images.githubusercontent.com/71582030/153322031-3212c910-2494-47f4-b139-1750665b7f96.png)
 
+### Mac MinBroswer
+![image](https://user-images.githubusercontent.com/71582030/166456476-a799a580-33c7-410b-a3e7-e647570912f5.png)
+
 ## Copy n Paste
 
 ### Mac Chrome
@@ -74,5 +77,17 @@
 ``                              
 ``
 ```
+
+### Mac MinBroswer
+```
+`` ● ● ● <   𝗛𝗼𝗺𝗲𝗽𝗮𝗴𝗲        + ≡ ``
+
+          I'm a passionate front-end 
+        web developer from Malaysia
+
+``        https://zytha.ml        ``
+```
+
+
 
 
